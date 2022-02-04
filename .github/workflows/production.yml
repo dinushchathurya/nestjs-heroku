@@ -1,4 +1,5 @@
-name: Nest.js CI
+name: Node.js CI
+
 on:
   push:
     branches: [ master ]
